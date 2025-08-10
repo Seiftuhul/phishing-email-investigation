@@ -10,7 +10,7 @@ This project involves analyzing phishing URLs sourced from PhishTank using Virus
 
 ## Project Files
 - [Phishing Email Investigation Report](Phishing_Email_Investigation_Report.pdf)  
-- Screenshots are located in the `screenshots` folder  
+- Screenshots are located in the  [Screenshots folder](screenshots) folder  
 
 ## Sample Screenshots
 
