@@ -9,7 +9,7 @@ This project involves analyzing phishing URLs sourced from PhishTank using Virus
 - Compiled findings into a professional investigation report  
 
 ## Project Files
-- `Phishing_Email_Investigation_Report.pdf`  
+- [Phishing Email Investigation Report](Phishing_Email_Investigation_Report.pdf)  
 - Screenshots are located in the `screenshots` folder  
 
 ## Sample Screenshots
