@@ -125,7 +125,10 @@ Phishing remains one of the most common and dangerous cybersecurity threats, whe
 
 ## Project Files  
 - [Phishing Email Investigation Report](Phishing_Email_Investigation_Report.pdf)  
-- Screenshots are located in the [Screenshots folder](screenshots)  
+- Screenshots are located in the [screenshots folder](screenshots)  
+- Wireshark DNS capture files:  
+  - [Serviceuzg DNS Request Capture.pcap](wireshark_captures/Serviceuzg_DNS_Request_Capture.pcap)  
+  - [Daspol DNS Request Capture.pcap](wireshark_captures/Daspol_DNS_Request_Capture.pcap)  
 
 ---
 
